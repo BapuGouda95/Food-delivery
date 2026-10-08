@@ -109,8 +109,3 @@ Documentation/    # Template documentation
 - JavaScript and jQuery
 - AOS, Swiper, and Magnific Popup
 
-## Credits
-
-The original Sarab template design and code are credited to [Bestwpware](https://bestwpware.com/) and distributed by [ThemeWagon](https://themewagon.com/). See the [original template demo](https://themewagon.github.io/sarab/) for reference.
-
-Please refer to the original template's license and attribution terms before redistributing or using its assets.
